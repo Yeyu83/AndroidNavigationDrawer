@@ -9,6 +9,7 @@
 
     <androidx.appcompat.widget.Toolbar
         android:layout_height="40dp"
+        android:id="@+id/toolbar"
         android:layout_gravity="top"
         app:title="@string/toolbar_title"
         app:titleTextColor="@color/purple_700"
